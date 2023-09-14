@@ -1,0 +1,44 @@
+.creditCard-box {
+    color:rgb(29, 26, 26);
+    background: #11aa99; 
+    display: flex; 
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+}
+
+.type {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
+
+
+.number {
+    display: flex;
+    vertical-align: middle;
+}
+
+.expirationMonth{
+    display: flex;
+    align-items:end;
+
+}
+
+.expirationYear{
+    display: flex;
+}
+
+.bank{
+    display: flex;
+}
+
+.owner{
+    display: flex;
+}
+
+.cssClass{
+    display: flex;
+}
